@@ -16,6 +16,7 @@ server.py contains contributions from:
 
 * Abram Hindle
 * Eddie Antonio Santos
+* Daniel Phan
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
@@ -26,5 +27,5 @@ Resources
 ========================
 * HTTP Protocol (http://tools.ietf.org/html/rfc2616#section-6)
 * Python OS Documentation (https://docs.python.org/2/library/os.html)
-* Past Examples(https://github.com/djphan/c410-Repo/tree/master/c410-A1Webserver, https://github.com/sjpartri/cmput404assignments/tree/master/CMPUT404-assignment-webserver-master, https://github.com/tpolasek/CMPUT404-assignment-web-client)
+* Past Example by Daniel Phan (https://github.com/djphan/c410-Repo/tree/master/c410-A1Webserver)
 
